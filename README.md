@@ -70,7 +70,9 @@ A Streamlit web application is developed to:
 - Log predictions for future analysis
 
 
-`
+## 📁 Project Structure
+
+```
 
 Heart-Disease-Prediction/
 │
@@ -108,4 +110,4 @@ Heart-Disease-Prediction/
 └── .gitignore
     └── Files and folders excluded from version control
 
-`
+```
