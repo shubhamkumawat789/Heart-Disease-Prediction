@@ -77,37 +77,26 @@ A Streamlit web application is developed to:
 Heart-Disease-Prediction/
 │
 ├── app.py
-│   └── Streamlit web application for heart disease prediction
 │
 ├── README.md
-│   └── Project documentation
 │
 ├── requirements.txt
-│   └── Python dependencies required to run the project
 │
 ├── artifacts/
 │   ├── heart_mlp_tf.keras
-│   │   └── Trained TensorFlow/Keras MLP model
 │   └── preprocessor.joblib
-│       └── Saved preprocessing pipeline (scaler + encoder)
 │
 ├── data/
 │   └── Heart_Disease.csv
-│       └── Original dataset used for training the model
 │
 ├── notebooks/
 │   └── Heart_disease.ipynb
-│       └── Data analysis, preprocessing, model training, and evaluation
 │
 ├── scripts/
 │   └── test_model.py
-│       └── Script for testing model inference using saved artifacts
 │
 ├── logs/
-│   └── predictions_log.csv
-│       └── Logs storing user inputs and prediction results
-│
-└── .gitignore
-    └── Files and folders excluded from version control
+    └── predictions_log.csv
+
 
 ```
