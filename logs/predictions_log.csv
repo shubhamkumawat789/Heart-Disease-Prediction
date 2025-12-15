@@ -1,0 +1,3 @@
+age,sex,dataset,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,probability,prediction,prediction_label,timestamp
+55,Male,Cleveland,asymptomatic,130,240,False,normal,150,False,1.0,upsloping,0,normal,0.4844195544719696,0,No Disease,2025-12-15T12:13:28
+55,Male,Cleveland,asymptomatic,130,240,False,normal,150,False,1.0,upsloping,0,normal,0.4844195544719696,0,No Disease,2025-12-15T12:16:18
